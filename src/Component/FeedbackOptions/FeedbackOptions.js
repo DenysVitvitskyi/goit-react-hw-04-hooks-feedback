@@ -1,5 +1,5 @@
-import { Button, List, Item } from "./FeedbackOptions.styled";
 import PropTypes from "prop-types";
+import { Button, List, Item } from "./FeedbackOptions.styled";
 
 export default function FeedbackOptions({ options, onLeaveFeedback }) {
   return (

@@ -1,10 +1,8 @@
 import { useState } from "react";
-
-import Statistics from "./components/Statistics/Statistics";
-import FeedbackOptions from "./components/FeedbackOptions/FeedbackOptions";
-import Section from "./components/Section/Section";
-import Notification from "./components/Notification/Notification";
-
+import Statistics from "./Component/Statistics/Statistics";
+import FeedbackOptions from "./Component/FeedbackOptions/FeedbackOptions";
+import Section from "./Component/Section/Section";
+import Notification from "./Component/Notification/Notification";
 import Wrap from "./App.styled";
 import "./index.css";
 import "./App.css";
